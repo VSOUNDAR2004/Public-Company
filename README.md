@@ -2,6 +2,8 @@
 
 This is a responsive, modern **bookstore landing page** built using **HTML5** and **CSS3**. The design focuses on clean layout, visual hierarchy, and user-friendly navigation — ideal for showcasing books, authors, and new releases. It simulates a professional website interface for a publishing company or online book retailer.
 
+---
+
 ## ✨ Features
 
 - ✅ Fully responsive layout  
@@ -13,6 +15,8 @@ This is a responsive, modern **bookstore landing page** built using **HTML5** an
 - ✅ Footer with contact info, social media icons, and quick links  
 - ✅ Smooth scroll behavior and section navigation  
 
+---
+
 ## 🛠️ Technologies Used
 
 - HTML5  
@@ -20,5 +24,11 @@ This is a responsive, modern **bookstore landing page** built using **HTML5** an
 - Google Fonts (Poppins)  
 - Font Awesome Icons  
 
-##Live preview
--Link[https://publishingcompanysample.netlify.app/]
+---
+
+
+## 🔗 Live Demo
+
+> (https://publishingcompanysample.netlify.app/)
+
+
