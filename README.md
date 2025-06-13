@@ -19,3 +19,6 @@ This is a responsive, modern **bookstore landing page** built using **HTML5** an
 - CSS3  
 - Google Fonts (Poppins)  
 - Font Awesome Icons  
+
+##Live preview
+-Link[https://publishingcompanysample.netlify.app/]
